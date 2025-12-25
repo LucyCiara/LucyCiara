@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on switching my development environment to Doom Emacs, and creating a character generation application for GURPS characters.
+- 🔭 I’m currently working on [switching my development environment to Doom Emacs] (https://github.com/LucyCiara/Lucy-Computer-Configs), and creating a [character generation application for GURPS] (https://github.com/LucyCiara/GURPS-Random-Character-Generator).
 - 🌱 I’m currently learning JavaFX
 - 💬 Pronouns: She/Her
 - 📫 How to reach me: lucyciara@duck.com
