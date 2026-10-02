@@ -1,9 +1,4 @@
-## Hi there 👋
-- 🔭 I’m currently working on [migrating my development environment to Doom Emacs](https://github.com/LucyCiara/Lucy-Computer-Configs), and creating a [character generation application for GURPS](https://github.com/LucyCiara/GURPS-Random-Character-Generator).
-- 🌱 I’m currently learning JavaFX
-- 💬 Pronouns: She/Her
-- 📫 How to reach me: lucyciara@duck.com
-
+I'm a software engineering student who enjoys making cool stuff.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucycht) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucyciara@duck.com) 
@@ -14,9 +9,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=LucyCiara&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=LucyCiara&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucyCiara&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LucyCiara&limit=5&theme=date_night&combine_all_yearly_contributions=true)
